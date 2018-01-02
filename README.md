@@ -1,11 +1,11 @@
 
-[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
-
 # 中文 Python 笔记
 
-> 版本：0.0.1<br>
+> 版本：0.0.2<br>
 > 作者：李金<br>
 > 邮件：lijinwithyou@gmail.com<br>
+> 修改者：Cookiesfly<br>
+> 邮件：zheng.fei42@gmail.com
 
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
@@ -30,6 +30,8 @@ $ ipython notebook
 ```
 来进入 `ipython notebook`。
 
+本版本在原作者0.0.1版本上做了细微修改，原版某些细节部分仅在**Python2**中可行，但不适用于**Python3**, 本版在这些地方加入自己的理解或查阅的资料作为个人学习使用，欢迎指正及更改。
+
 ----
 
 ## 基本环境配置
@@ -37,7 +39,7 @@ $ ipython notebook
 - 安装 [Anaconda](http://www.continuum.io/downloads) 或者 [Miniconda](http://conda.pydata.org/miniconda.html)
 
 - 更新环境
-``` 
+```
 conda update conda
 conda update anaconda
 ```
@@ -219,3 +221,4 @@ conda update anaconda
 觉得有用打赏一下？
 
 ![](payment.jpg)
+![](wxpay.jpg)
