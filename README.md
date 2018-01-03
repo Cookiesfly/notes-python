@@ -221,4 +221,4 @@ conda update anaconda
 觉得有用打赏一下？
 
 ![](payment.jpg)
-![](wxpay.jpg)
+![](wxpay.png)
